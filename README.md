@@ -6,7 +6,17 @@ This repository demonstrates how to build a very simple **AI Chat Application** 
 👉 [**LangChain4j Getting Started: A Simple Guide for Beginners**](https://bootcamptoprod.com/langchain4j-getting-started/)
 
 🎥 **Video Tutorial**: Prefer hands-on learning? Watch our step-by-step implementation guide.<br>
-👉 YouTube Tutorial - Coming Soon!!
+👉 YouTube Tutorial - [**Getting Started with LangChain4j | Build Your First AI Chat API**](https://youtu.be/_J5VvSaxeFk)
+
+<p align="center">
+  <a href="https://youtu.be/_J5VvSaxeFk">
+    <img src="https://img.youtube.com/vi/_J5VvSaxeFk/0.jpg" alt="Getting Started with LangChain4j | Build Your First AI Chat API" />
+  </a>
+</p>
+
+<p align="center">
+  ▶️ <a href="https://youtu.be/_J5VvSaxeFk">Watch on YouTube</a>
+</p>
 
 ---
 
